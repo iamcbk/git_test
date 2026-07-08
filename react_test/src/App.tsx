@@ -9,6 +9,14 @@ function App() {
 
   return (
     <>
+      <button
+        type="button"
+        className="git-test-button"
+        onClick={() => alert('这是git测试')}
+      >
+        git测试
+      </button>
+
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />

@@ -1,3 +1,15 @@
+.git-test-button {
+  align-self: center;
+  width: calc(100vw / 3);
+  height: 25vh;
+  color: #ffffff;
+  background: #0000ff;
+  border: 1px solid #ff0000;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  cursor: pointer;
+}
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
