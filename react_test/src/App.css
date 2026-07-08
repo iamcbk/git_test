@@ -1,7 +1,7 @@
 .git-test-button {
   align-self: center;
   width: calc(100vw / 3);
-  min-height: 44px;
+  height: 25vh;
   color: #ffffff;
   background: #0000ff;
   border: 1px solid #ff0000;
